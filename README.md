@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido durante a Imersão Dados com Python da Alura. A aplicação consiste em um dashboard interativo que analisa dados salariais, permitindo visualizar tendências e insights através de filtros dinâmicos.
 
 ## Preview
-<p align="center"> <img src="https://github.com/user-attachments/assets/e59f1bd6-dc44-4c33-9767-015fbd0b5f40"> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/068a385e-2391-47ea-9acb-abc5f9202631"> </p>
 
 ## Funcionalidades
 
